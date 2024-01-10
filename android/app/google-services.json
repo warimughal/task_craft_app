@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86915118133",
+    "project_id": "project-management-tool-a690d",
+    "storage_bucket": "project-management-tool-a690d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86915118133:android:2cf0e4e9a7ff8fb6b32d7c",
+        "android_client_info": {
+          "package_name": "com.example.task_craft_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC83YvL1I1wAcCW1WriwKlENVpwthXnETQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
